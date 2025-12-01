@@ -1,0 +1,13 @@
+{
+	"id": "lightspeed",
+	"name": "Lightspeed",
+	"author": ["baltdev"],
+	"description": "Allows you to speed up the raw update loop of the game.",
+	"prefix": "lightspeed",
+	"main_file": "main.lua",
+	"badge_colour": "20a0ff",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"priority": 0,
+	"dependencies": [],
+}
